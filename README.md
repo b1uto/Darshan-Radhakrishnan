@@ -1,4 +1,3 @@
-# Darshan-Radhakrishnan
 <h1 align="center">Hey 👋 This is Darshan Radhakrishnan</h1>
 
 ###
